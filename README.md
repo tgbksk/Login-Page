@@ -1,1 +1,1 @@
-# Login-Page
+#In this project I used modern HTML, CSS and JavaScript to create a Login Page Design complete with Login and Registration animations. I used CSS Flexbox, CSS transition and also CSS keyframes for some cool animation effects.
